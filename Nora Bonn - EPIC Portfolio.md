@@ -6,6 +6,7 @@ Email: robinbond763@gmail.com
 * In the fall of 2022 I began my journey by learning python. It wasn't until the summer of 2023 that I decided to try learning HTML as well. When I came to school in the fall I had decided to take a plethora of computer science classes. 4 focused on cybersecurity and IT that each come with the chance to take their accompanying exams, A+, Network+, Linux+, and Security+. I have spent a lot of time studying for these exams and plan to take both the A+ and Network+ exams soon. I have proficency in Linux based programs and love learning more about security and the internet. As well as learning new languages.
 ### Strengths
 - I have a strong proficiency in troubleshooting allowing me to figure out why many issues may be occuring.
+- I also have a strength in research and learning new tools efficently.
 - 
 ### Goals
 - What skills are you working on?
@@ -29,7 +30,7 @@ Email: robinbond763@gmail.com
 -  Morse Code - *link to your repo*
 	- Describe the project and it's purpose
 	- Describe what skills you used and what you learned during this project
-- Final Project - *link to your repo*
+- Final Project - *[link](https://github.com/RobinBonn/finalProject)*
 	 - Describe the project and it's purpose
 	- Describe what skills you used and what you learned during this project
 
