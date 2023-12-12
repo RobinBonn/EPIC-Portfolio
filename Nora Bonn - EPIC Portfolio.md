@@ -1,6 +1,6 @@
 # Robin Bonn
 Pronouns: He/Him
-Email:robinbond763@gmail.com
+Email: robinbond763@gmail.com
 ## About Me
 * Tell your site viewers more about yourself.
 * What skills, talents, and knowledge do you have? What do you like learning about?
