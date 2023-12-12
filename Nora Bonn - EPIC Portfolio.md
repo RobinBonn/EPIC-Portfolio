@@ -1,7 +1,6 @@
-# Your Name
-Pronouns:
-Email:
-Phone Number:
+# Robin Bonn
+Pronouns: He/Him
+Email:robinbond763@gmail.com
 ## About Me
 * Tell your site viewers more about yourself.
 * What skills, talents, and knowledge do you have? What do you like learning about?
@@ -21,10 +20,8 @@ Phone Number:
 - What did you learn through these skills being part of EPIC?
 
 ### Professional Experiences
-- Work Site tours
-- Job shadowing
-- Conferences
-- Professional Organizations
+- Denver SC23 Conference
+- System 76 Tour
 
 ---
 ## Projects: 
