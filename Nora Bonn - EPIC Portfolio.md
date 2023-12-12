@@ -2,10 +2,10 @@
 Pronouns: He/Him
 Email: robinbond763@gmail.com
 ## About Me
-* Tell your site viewers more about yourself.
-* What skills, talents, and knowledge do you have? What do you like learning about?
+* I orginally got into computer science back in 2022 because my older brother decided to go to college for it. After that I fell in love with working on computers and have been doing my best to learn more ever since.
+* In the fall of 2022 I began my journey by learning python. It wasn't until the summer of 2023 that I decided to try learning HTML as well. When I came to school in the fall I had decided to take a plethora of computer science classes. 4 focused on cybersecurity and IT that each come with the chance to take their accompanying exams, A+, Network+, Linux+, and Security+. I have spent a lot of time studying for these exams and plan to take both the A+ and Network+ exams soon.
 ### Strengths
-- What are some of your strengths?
+- 
 ### Goals
 - What skills are you working on?
 
