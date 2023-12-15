@@ -30,7 +30,7 @@ Email: robinbond763@gmail.com
 	- Describe the project and it's purpose
 	- Describe what skills you used and what you learned during this project
 - Final Project - *[link](https://github.com/RobinBonn/finalProject)*
-	 - This project was made to log the temperature of 
+	 - This project was made to log the temperature of small screenless devices and warn the user if the device heats up too much to ensure that they have time to take appropriate action.
 	- Describe what skills you used and what you learned during this project
 
 
