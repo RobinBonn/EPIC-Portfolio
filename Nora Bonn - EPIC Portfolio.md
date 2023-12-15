@@ -9,8 +9,7 @@ Email: robinbond763@gmail.com
 - I also have a strength in research and learning new tools efficently.
 - 
 ### Goals
-- What skills are you working on?
-
+- Currently I am working on understanding how hardware and code interact with eachother better.
 ---
 ## EPIC Experience
 
@@ -31,7 +30,7 @@ Email: robinbond763@gmail.com
 	- Describe the project and it's purpose
 	- Describe what skills you used and what you learned during this project
 - Final Project - *[link](https://github.com/RobinBonn/finalProject)*
-	 - Describe the project and it's purpose
+	 - This project was made to log the temperature of 
 	- Describe what skills you used and what you learned during this project
 
 
